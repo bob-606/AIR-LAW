@@ -1,5 +1,3 @@
-# air-law
-
 # AIR LAW - COMPLETE ANSWERS WITH OPTIONS
 
 ## 1. Which of the following documents have to be on board for an international flight?
