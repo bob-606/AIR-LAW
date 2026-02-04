@@ -2,10 +2,10 @@
 
 ## 1. Which of the following documents have to be on board for an international flight?
 a Certificate of aircraft registration, b Certificate of airworthiness, c Airworthiness review certificate, d EASA Form- 1, e Airplane logbook, f Appropriate papers for every crew member, g Technical logbook
-- a, b, c, e, f
+- ***a, b, c, e, f***
 - b, c, d, e, f, g
 - d, f, g
-- ***a, b, e, g***
+- a, b, e, g
 
 ## 2. Which area could be crossed with certain restrictions?
 - Prohibited area
