@@ -46,8 +46,8 @@ a Certificate of aircraft registration, b Certificate of airworthiness, c Airwor
 ## 8. Which validity does the Certificate of Airworthiness have?
 - 6 months
 - 12 years
-- Unlimited
-- ***12 months***
+- ***Unlimited***
+- 12 months
 
 ## 9. What is the meaning of the abbreviation ARC?
 - Airworthiness Recurring Control
